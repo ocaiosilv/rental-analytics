@@ -1,5 +1,8 @@
-RENTAL ANALYTICS
+# RENTAL ANALYTICS
 
-- This project is goin to be a webscrapping based analytic project focused in explore PANDAS and SQL integration with changing data and its visualization.
+- This project is a web scraping based analytics pipeline focused on exploring **Pandas** and **SQL integration** with dynamic data and visualization.
 
-- My goal it's to divide the project in parts, where i can explore other tools and library's usage and relation.
+- My goal is to divide the project into parts so I can explore different tools, libraries, and their interactions.  
+The first part was to build a working and scalable web scraping script based on a real estate search site (my choice: [vivareal.com.br](https://www.vivareal.com.br/), since it's the most popular in my country).
+
+**WIP – Analytics & Visualization**
