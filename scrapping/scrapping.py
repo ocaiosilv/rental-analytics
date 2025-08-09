@@ -1,89 +1,93 @@
 import cloudscraper
 from bs4 import BeautifulSoup
 import csv
+import os
 
-def numbersFromString(text):
+def numbers_from_string(text):
     return int(''.join(i for i in text if i.isdecimal()))
     
-
-def extract_Info(infoType, propertyHtml):
-    infoElement = (propertyHtml.find("li", attrs={"data-cy": f"{infoType}"}))
-    if infoElement:
-        return numbersFromString((((infoElement.find("h3", attrs={"class": "flex row items-center gap-0-5"}))).get_text()))
+def extract_info(info_type, property_html):
+    info_element = property_html.find("li", attrs={"data-cy": f"{info_type}"})
+    if info_element:
+        return numbers_from_string((info_element.find("h3", attrs={"class": "flex row items-center gap-0-5"})).get_text())
     else:
         return 0    
 
-def webScrapping():
+def web_scraping():
     scraper = cloudscraper.create_scraper()
-    urlZero = "https://www.vivareal.com.br/aluguel/sergipe/aracaju/apartamento_residencial/"
+    base_url = "https://www.vivareal.com.br/aluguel/sergipe/aracaju/apartamento_residencial/"
 
-    pageZero = scraper.get(urlZero)
-    soup = BeautifulSoup(pageZero.text, "html.parser") 
+    page_zero = scraper.get(base_url)
+    soup = BeautifulSoup(page_zero.text, "html.parser") 
 
-    totalImoveis = soup.find("div", attrs={"id": "mobile-result-scroll-point", "class": "UpperFilter_upper-filters__wrapper__7m8g9"})
-    totalImoveis = totalImoveis.find("h1", attrs={"class": "font-medium text-2 text-neutral-130 font-bold"}).get_text()
-    totalImoveis = numbersFromString(totalImoveis)
+    total_properties = soup.find("div", attrs={"id": "mobile-result-scroll-point", "class": "UpperFilter_upper-filters__wrapper__7m8g9"})
+    total_properties = total_properties.find("h1", attrs={"class": "font-medium text-2 text-neutral-130 font-bold"}).get_text()
+    total_properties = numbers_from_string(total_properties)
 
-    if totalImoveis % 30 != 0:
-        totalPaginas = totalImoveis//30 + 1
+    if total_properties % 30 != 0:
+        total_pages = total_properties // 30 + 1
     else:
-        totalPaginas = totalImoveis // 30
+        total_pages = total_properties // 30
 
-    catalgoImoveis = []
-    for i in range(totalPaginas):
-        url = (urlZero + "?onde=%2CSergipe%2CAracaju%2C%2C%2C%2C%2Ccity%2CBR%3ESergipe%3ENULL%3EAracaju%2C-10.92654%2C-37.073115%2C&tipos=apartamento_residencial"f"&pagina={i}""&transacao=aluguel")
+    property_catalog = []
+    for i in range(total_pages):
+        url = (base_url + "?onde=%2CSergipe%2CAracaju%2C%2C%2C%2C%2Ccity%2CBR%3ESergipe%3ENULL%3EAracaju%2C-10.92654%2C-37.073115%2C&tipos=apartamento_residencial"f"&pagina={i}" "&transacao=aluguel")
 
         page = scraper.get(url)
         soup = BeautifulSoup(page.text, "html.parser") 
 
-        infosImoveis = soup.find_all("li", attrs={"data-cy": "rp-property-cd"})
-        for item in infosImoveis:
-            imovel = {}
+        properties_info = soup.find_all("li", attrs={"data-cy": "rp-property-cd"})
+        for item in properties_info:
+            property_item = {}
             
-            bairro = ((item.find("h2", attrs={"data-cy": "rp-cardProperty-location-txt"})))
-            bairro = bairro.find("span", attrs={"class": "block font-secondary text-1-5 font-regular text-neutral-110 mb-1"}).next_sibling.split(",")[0]
+            neighborhood = item.find("h2", attrs={"data-cy": "rp-cardProperty-location-txt"})
+            neighborhood = neighborhood.find("span", attrs={"class": "block font-secondary text-1-5 font-regular text-neutral-110 mb-1"}).next_sibling.split(",")[0]
 
-            rua = (item.find("p", attrs={"data-cy": "rp-cardProperty-street-txt"})).get_text()
+            street = item.find("p", attrs={"data-cy": "rp-cardProperty-street-txt"}).get_text()
 
-            aluguel = item.find("div", attrs={"data-cy": "rp-cardProperty-price-txt"})
+            rent = item.find("div", attrs={"data-cy": "rp-cardProperty-price-txt"})
             try: 
-                aluguel = numbersFromString(((aluguel.find("p", attrs={"class": "text-2-25"})).get_text()))
+                rent = numbers_from_string(rent.find("p", attrs={"class": "text-2-25"}).get_text())
             except:
                 continue
             
-            taxaCondominial = item.find("p", attrs={"class": "text-1-75 text-neutral-110 overflow-hidden text-ellipsis"})
-            if taxaCondominial:
-                taxaCondominial = numbersFromString((((taxaCondominial.get_text()).split("•"))[0]))
+            condo_fee = item.find("p", attrs={"class": "text-1-75 text-neutral-110 overflow-hidden text-ellipsis"})
+            if condo_fee:
+                condo_fee = numbers_from_string((condo_fee.get_text().split("•")[0]))
             else:
-                taxaCondominial = 0
+                condo_fee = 0
 
-            valorTotalMensal = (aluguel +  taxaCondominial)
+            total_monthly_value = rent + condo_fee
         
-            tamanhoImovel = extract_Info("rp-cardProperty-propertyArea-txt", item)
-            quantidadeQuartos = extract_Info("rp-cardProperty-bedroomQuantity-txt", item)
-            quantidadeBanheiros = extract_Info("rp-cardProperty-bathroomQuantity-txt", item)
-            quantidadeVagasGaragem = extract_Info("rp-cardProperty-parkingSpacesQuantity-txt", item)
+            property_size = extract_info("rp-cardProperty-propertyArea-txt", item)
+            bedrooms = extract_info("rp-cardProperty-bedroomQuantity-txt", item)
+            bathrooms = extract_info("rp-cardProperty-bathroomQuantity-txt", item)
+            parking_spaces = extract_info("rp-cardProperty-parkingSpacesQuantity-txt", item)
             
-            imovel = {
-            "bairro": bairro,
-            "rua": rua,
-            "aluguel": aluguel,
-            "taxaCondominial": taxaCondominial,
-            "valorTotalMensal": valorTotalMensal,
-            "tamanhoImovel": tamanhoImovel, 
-            "quartos": quantidadeQuartos,
-            "banheiros": quantidadeBanheiros,
-            "vagasGaragem": quantidadeVagasGaragem,
+            property_item = {
+                "neighborhood": neighborhood,
+                "street": street,
+                "rent": rent,
+                "condo_fee": condo_fee,
+                "total_monthly_value": total_monthly_value,
+                "property_size": property_size, 
+                "bedrooms": bedrooms,
+                "bathrooms": bathrooms,
+                "parking_spaces": parking_spaces,
             }            
             
-            catalgoImoveis.append(imovel)
-    return catalgoImoveis
+            property_catalog.append(property_item)
+    return property_catalog
 
-catalogo = webScrapping()
 
-with open('catalogo.csv', 'w',newline='') as csvfile:
-    fieldnames = ["bairro", "rua", "aluguel", "taxaCondominial", "valorTotalMensal", "tamanhoImovel",  "quartos", "banheiros", "vagasGaragem"]
+catalog = web_scraping()
+rent_analysis_folder = os.path.dirname(os.path.dirname(__file__))
+data_folder = os.path.join(rent_analysis_folder, "data")
+catalog_file_path = os.path.join(data_folder, "catalog.csv")
+
+with open(catalog_file_path, 'w', newline='') as csvfile:
+    fieldnames = ["neighborhood", "street", "rent", "condo_fee", "total_monthly_value", "property_size", "bedrooms", "bathrooms", "parking_spaces"]
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
     writer.writeheader()
-    for i in catalogo:
+    for i in catalog:
         writer.writerow(i)
