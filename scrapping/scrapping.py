@@ -7,7 +7,7 @@ import random
 def pseudoPriceAdjustment(rent, bedrooms, bathrooms, parking_spaces, property_size):
     """
     This function ideia it's to synthetically adjust the rent price for
-    properties. The original problem was that when simulating new rentals, within
+    properties. The original problem was that when simulating new rentals,
     the number of rooms and square meters would change, but the price would
     stay the same, which wasn't realistic even for a syntetical aproach.
 
@@ -18,13 +18,13 @@ def pseudoPriceAdjustment(rent, bedrooms, bathrooms, parking_spaces, property_si
     variances between them in the same neighboorhood to see how the price changed.
 
     The implemented solution therefore uses a data-driven average 'price per square meter' 
-    from the "no multiple rentals" analysis, complemented by heuristic-based multipliers 
-    for other features.
+    from the "no multiple rentals" analysis, complemented by multipliers collected from public
+    data statistics for other features.
 
     note: if you run this in a bigger city vivareal page, and then get a more dense dataframe
     (without the pseudoRentals active) you can have a gratter result about the real changes
     for each bedroom,bathroom, parking spaces and even the priceperSQM, so then the pseudoRentals
-    can be more precise and accurrate.
+    multipliers can be more precise and accurrate.
     """
     price = rent
 
@@ -168,7 +168,7 @@ def web_scraping():
     building step, there's a "feature" that you can turn on and off, called the
     multRentals, that, as already been explained, comes to bypass a little problem 
     with the grouped rentals in the html. 
-    The two, multRentals True or False, provides great results and satisfying dataframes.
+    Both multRentals True or False, provides great results and satisfying dataframes.
     """
     scraper = cloudscraper.create_scraper()
     base_url = "https://www.vivareal.com.br/aluguel/sergipe/aracaju/apartamento_residencial/"
