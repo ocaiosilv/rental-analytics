@@ -1,301 +1,253 @@
 neighborhood,street,rent,condo_fee,total_monthly_value,property_size,bedrooms,bathrooms,parking_spaces
-Jabotiana,Rua Jasiel de Brito Côrtes,1100,397,1497,62,3,1,1
-Salgado Filho,Rua Joventina Alves,1600,800,2400,110,3,3,1
-Santo Antônio,Rua Miron de Oliveira Ribeiro,1300,260,1560,50,2,1,1
-Luzia,Rua José Deodoro Santos,2600,400,3000,80,3,1,1
-Luzia,Rua Palmira Ramos Teles,1700,330,2030,102,2,1,1
-Coroa do Meio,Rua Euclides Góis,3300,739,4039,72,2,1,0
-Jabotiana,Estrada da Cabrita,1000,316,1316,66,3,2,1
-São Conrado,Avenida Empresário José Carlos Silva,900,235,1135,56,3,1,1
-Ponto Novo,,1800,520,2320,70,3,1,1
-Farolândia,Avenida Murilo Dantas,1100,326,1426,40,1,1,0
-Aruana,Rua M,1000,300,1300,55,3,1,0
 Coroa do Meio,Rua Antônio Andrade,3000,1201,4201,67,2,2,1
-Coroa do Meio,,2250,400,2650,57,2,1,1
-Aruana,Rua Adalberto Fonseca,1450,365,1815,60,2,1,1
-Farolândia,Rua João Batista Ribeiro,1800,568,2368,77,3,2,1
-Aruana,Rua Z,1100,350,1450,54,2,1,1
-Porto D'Antas,Avenida General Euclides Figueiredo,600,0,600,48,2,1,1
-Luzia,Rua Palmira Ramos Teles,2000,400,2400,55,2,1,1
-Treze de Julho,Rua Doutor Osório de Araújo Ramos,2100,1150,3250,120,4,1,1
-Farolândia,Rua Tenente Antônio Fontes Pitanga,3000,530,3530,66,2,1,1
-Jardins,Avenida Doutor José Machado de Souza,6500,687,7187,80,3,1,2
-Inácio Barbosa,Avenida Etelvino Alves de Lima,1300,330,1630,60,3,1,1
-Ponto Novo,,1800,520,2320,70,3,1,1
-Jardins,Avenida Deputado Sílvio Teixeira,3800,1275,5075,140,3,1,2
-Treze de Julho,Rua Doutor Celso Oliva,1450,1450,2900,165,3,5,2
-Coroa do Meio,Rua Coronel José Figueiredo de Albuquerque,1800,655,2455,76,3,2,1
-Coroa do Meio,Rua Urbano Neto,2500,746,3246,96,3,3,1
-Coroa do Meio,Rua Pedro Mandarino,1200,380,1580,75,3,2,1
-Farolândia,Avenida Doutor Adel Nunes,1600,359,1959,55,2,2,1
-Jardins,Avenida Oviêdo Teixeira,6500,900,7400,90,2,2,2
-Jabotiana,Rua Jasiel de Brito Côrtes,1100,397,1497,62,3,1,1
-Salgado Filho,Rua Joventina Alves,1600,800,2400,110,3,3,1
 Santo Antônio,Rua Miron de Oliveira Ribeiro,1300,260,1560,50,2,1,1
-Luzia,Rua José Deodoro Santos,2600,400,3000,80,3,1,1
-Luzia,Rua Palmira Ramos Teles,1700,330,2030,102,2,1,1
 Coroa do Meio,Rua Euclides Góis,3300,739,4039,72,2,1,0
-Jabotiana,Estrada da Cabrita,1000,316,1316,66,3,2,1
+Jabotiana,Rua Antônio Fernando dos Reis Ribeiro,1100,413,1513,79,3,1,1
+Luzia,Rua José Deodoro Santos,2500,500,3000,80,3,2,1
+São José,Praça Camerino,1500,0,1500,55,2,1,0
+Suíça,Avenida Gonçalo Rolemberg Leite,1300,1150,2450,125,3,2,1
+Aeroporto,Rua José Barreto Fontes,1300,0,1300,55,2,1,0
+Inácio Barbosa,Rua Quirino,1000,250,1250,50,2,1,1
+Jardins,Rua Anna Dulce Vieira de Carvalho,3800,850,4650,72,2,2,1
+Grageru,Avenida Franklin de Campos Sobral,2200,610,2810,55,2,2,1
 São Conrado,Avenida Empresário José Carlos Silva,900,235,1135,56,3,1,1
-Ponto Novo,,1800,520,2320,70,3,1,1
-Farolândia,Avenida Murilo Dantas,1100,326,1426,40,1,1,0
-Aruana,Rua M,1000,300,1300,55,3,1,0
-Coroa do Meio,Rua Antônio Andrade,3000,1201,4201,67,2,2,1
 Coroa do Meio,,2250,400,2650,57,2,1,1
-Aruana,Rua Adalberto Fonseca,1450,365,1815,60,2,1,1
-Farolândia,Rua João Batista Ribeiro,1800,568,2368,77,3,2,1
-Aruana,Rua Z,1100,350,1450,54,2,1,1
-Porto D'Antas,Avenida General Euclides Figueiredo,600,0,600,48,2,1,1
-Luzia,Rua Palmira Ramos Teles,2000,400,2400,55,2,1,1
-Treze de Julho,Rua Doutor Osório de Araújo Ramos,2100,1150,3250,120,4,1,1
-Farolândia,Rua Tenente Antônio Fontes Pitanga,3000,530,3530,66,2,1,1
-Jardins,Avenida Doutor José Machado de Souza,6500,687,7187,80,3,1,2
-Inácio Barbosa,Avenida Etelvino Alves de Lima,1300,330,1630,60,3,1,1
+Aruana,Rua M,1000,300,1300,55,3,1,0
 Ponto Novo,,1800,520,2320,70,3,1,1
-Jardins,Avenida Deputado Sílvio Teixeira,3800,1275,5075,140,3,1,2
-Treze de Julho,Rua Doutor Celso Oliva,1450,1450,2900,165,3,5,2
-Coroa do Meio,Rua Coronel José Figueiredo de Albuquerque,1800,655,2455,76,3,2,1
+Jabotiana,Rua Antônio Fernando dos Reis Ribeiro,1050,350,1400,48,2,1,0
+Luzia,Rua Matilde Silva Lima,1500,500,2000,70,3,1,1
 Coroa do Meio,Rua Urbano Neto,2500,746,3246,96,3,3,1
-Coroa do Meio,Rua Pedro Mandarino,1200,380,1580,75,3,2,1
-Farolândia,Avenida Doutor Adel Nunes,1600,359,1959,55,2,2,1
-Jardins,Avenida Oviêdo Teixeira,6500,900,7400,90,2,2,2
-Coroa do Meio,Rua Antônio Andrade,2800,349,3149,57,2,2,1
-Suíça,Rua Clara Almeida,1200,420,1620,52,2,1,1
-Coroa do Meio,Rua Antônio Andrade,3000,399,3399,57,2,2,1
-Salgado Filho,Praça Eronildes de Carvalho,1500,101,1601,60,2,1,1
-Jabotiana,Rua Tenente Wilson Pereira dos Santos,2800,559,3359,72,3,2,1
-Coroa do Meio,,2000,399,2399,57,2,2,1
-Marivan,Avenida Jornalista Juarez Conrado Dantas,1300,225,1525,50,2,1,1
-Getúlio Vargas,Avenida Mamede Paes Mendonça,900,0,900,60,2,1,0
-Aeroporto,Rua do Sol,2000,0,2000,45,2,1,0
-Luzia,Avenida Dulce Diniz,4500,0,4500,80,3,2,2
-Ponto Novo,Avenida Doutor Francisco Moreira,1700,840,2540,78,3,2,1
-Aeroporto,Rua do Sol,1900,0,1900,80,2,1,0
-Luzia,Avenida Adélia Franco,6500,685,7185,110,3,2,2
+Coroa do Meio,,2250,400,2650,57,2,1,1
+Luzia,Rua José Deodoro Santos,2600,400,3000,80,3,1,1
+Farolândia,Rua João Batista Ribeiro,1800,568,2368,77,3,2,1
+Jabotiana,Rua Jairo Piassá Fernandes,1300,956,2256,54,3,1,1
 Ponto Novo,Rua Rafael de Aguiar,1800,932,2732,70,3,2,1
-Coroa do Meio,,2250,400,2650,57,2,1,1
-Marivan,Avenida Jornalista Juarez Conrado Dantas,2200,0,2200,42,2,1,1
-Centro,Praça Camerino,1600,800,2400,140,3,12,1
-Atalaia,,3200,620,3820,66,2,1,2
-Ponto Novo,Avenida Augusto Franco,1800,385,2185,72,3,2,1
-Aeroporto,Rua do Sol,2200,0,2200,80,2,1,0
-Dezoito do Forte,Travessa Antônio Teodoro,800,0,800,50,2,1,0
-Salgado Filho,Praça Eronildes de Carvalho,1500,780,2280,60,2,1,1
-Grageru,Rua Tasso Sobral,1300,1056,2356,220,3,2,1
-Aruana,Rua Z,1300,449,1749,55,2,1,1
-Aruana,Rua A,1700,338,2038,68,3,2,2
-Aruana,Rua Eliza Correia Oliveira,1500,0,1500,57,2,1,1
-Aruana,Rua Jorge Mangueira Lobão,1300,364,1664,66,3,2,1
-Marivan,Rua Tom Jobim,900,333,1233,47,2,1,1
-Farolândia,Rua Paulo Afonso,4000,1179,5179,110,3,3,2
-Jardins,Avenida Deputado Pedro Valadares,3400,0,3400,70,2,2,2
-Suíça,Rua Clara Almeida,1200,420,1620,52,2,1,1
-Ponto Novo,Avenida Augusto Franco,1200,460,1660,62,3,1,1
-Inácio Barbosa,Rua Quirino,1300,345,1645,52,2,1,1
-Grageru,Avenida Franklin de Campos Sobral,1500,892,2392,65,3,2,1
-Aruana,Rua A,1900,0,1900,58,3,1,2
-Inácio Barbosa,Avenida Presidente Tancredo Neves,4000,640,4640,47,1,1,1
-Areia Branca,Rua Mangabeiras,1200,0,1200,60,2,2,1
-Cirurgia,Rua Dom Bosco,1100,610,1710,75,2,1,0
-São José,Rua Duque de Caxias,1500,1530,3030,135,3,2,1
-Jardins,Avenida Oviêdo Teixeira,5500,1584,7084,138,4,2,3
-Farolândia,Rua Tenente Waldir dos Santos,1000,415,1415,49,2,1,0
-Luzia,Rua Erundina Nobre Santos,900,390,1290,103,3,2,1
-Inácio Barbosa,Rua Quirino,1000,425,1425,50,2,1,1
-Treze de Julho,Rua Deputado Carvalho Deda,1500,935,2435,98,3,1,1
-Ponto Novo,Rua Rafael de Aguiar,1890,0,1890,65,3,1,1
-Farolândia,Rua Professora Maria Auxiliadora Santos dos Anjos,2300,300,2600,58,2,2,1
-Jabotiana,Rua Patrulheiro José Garcez de Andrade,1100,0,1100,60,3,2,0
-Grageru,Avenida Pedro Paes Azevedo,3500,1400,4900,104,3,3,1
-Jabotiana,Rua Antônio Fernando dos Reis Ribeiro,1650,413,2063,67,3,2,1
-Marivan,Avenida Alexandre Alcino,1500,390,1890,70,3,2,0
-Suíça,Avenida Hermes Fontes,2500,0,2500,131,3,2,2
-Pereira Lobo,Rua Clara Almeida,1200,101,1301,52,2,1,1
-Aruana,Rua Um,1600,0,1600,52,2,2,1
-Suíça,Avenida Gonçalo Rolemberg Leite,1300,1198,2498,125,3,2,1
-Ponto Novo,Avenida Gonçalo Rolemberg Leite,1800,865,2665,80,3,2,1
-Aeroporto,Avenida Luiz Braille,1300,339,1639,55,2,1,1
-Grageru,Avenida Adélia Franco,1200,580,1780,100,3,2,2
-São José,Avenida Augusto Maynard,2000,1419,3419,120,3,1,1
-Coroa do Meio,Rua Josias Vieira Dantas,1800,596,2396,66,3,2,1
-Farolândia,Rua Antônio Teixeira Gonçalves,2800,0,2800,47,2,1,1
-Aruana,Rua Praia de Atalaia Nova,1400,380,1780,62,2,2,1
-Atalaia,Avenida Mário Jorge Menezes Vieira,2690,400,3090,70,3,3,1
-Farolândia,Rua Antônio Barbosa de Araújo,1200,575,1775,73,2,2,0
-São Conrado,Rua B,1800,0,1800,52,2,1,1
-São José,Travessa Juca Barreto,4500,1300,5800,220,4,2,2
-Coroa do Meio,Rua Euclides Góis,2500,739,3239,73,2,1,1
-Salgado Filho,Praça Eronildes de Carvalho,1500,101,1601,60,2,1,1
-Capucho,Avenida Doutor Carlos Rodrigues da Cruz,700,300,1000,40,2,1,1
-Jabotiana,Rua João Gêniton da Costa,1800,420,2220,60,3,2,1
-Inácio Barbosa,Avenida Presidente João Goulart,1800,383,2183,60,3,1,1
-Aruana,Rua Adalberto Fonseca,1800,365,2165,71,2,1,1
-Suíça,Rua Leonel Curvelo,1100,100,1200,40,2,1,1
-Jardins,Avenida Doutor José Machado de Souza,6500,566,7066,76,2,12,2
+Jabotiana,Rua Jasiel de Brito Côrtes,1100,397,1497,62,3,1,1
+Atalaia,Rua Bráulio Costa,4000,1200,5200,101,2,2,2
+Salgado Filho,Rua Joventina Alves,1600,800,2400,110,3,3,1
+Atalaia,Rua Bráulio Costa,3200,660,3860,109,3,2,2
 Getúlio Vargas,,1300,200,1500,102,3,1,1
-São Conrado,Rua C,1800,0,1800,60,2,1,1
-Ponto Novo,Avenida Augusto Franco,1400,410,1810,65,2,2,1
-Inácio Barbosa,Avenida Etelvino Alves de Lima,1500,0,1500,52,2,1,1
-Farolândia,Avenida Doutor Adel Nunes,1650,359,2009,55,2,2,1
-Jardins,Avenida Doutor José Machado de Souza,3800,406,4206,68,2,2,1
-Jabotiana,Estrada da Cabrita,1000,390,1390,52,2,1,1
-Jabotiana,Rua João Gêniton da Costa,1600,0,1600,77,3,1,1
-Farolândia,Rua Antônio Teixeira Gonçalves,1900,0,1900,47,2,1,1
-Aruana,Rua Francisco Antônio Santos,1200,668,1868,60,3,1,1
-Farolândia,Avenida Capitão Joaquim Martins Fontes,2000,468,2468,78,3,1,1
-Aruana,Rua Josepha Andrade Irmã Fontes,1900,0,1900,53,2,1,1
-Coroa do Meio,Avenida Conselheiro João Moreira Filho,1650,430,2080,78,3,1,1
-Luzia,Rua José Deodoro Santos,2500,500,3000,80,3,1,1
-Aeroporto,Rua dos Halibutes,1550,466,2016,60,3,2,1
-Farolândia,Avenida Murilo Dantas,1100,326,1426,40,1,1,0
-Aruana,Rua Maria Vasconcelos de Andrade,1200,1218,2418,60,3,1,0
-Jabotiana,,1150,300,1450,68,3,2,1
+Farolândia,Rua Tenente Antônio Fontes Pitanga,3000,530,3530,66,2,1,1
+Aruana,Rua Adalberto Fonseca,1450,365,1815,60,2,1,1
+Aruana,Rua Z,1100,350,1450,54,2,1,1
+Luzia,Rua Palmira Ramos Teles,1700,330,2030,102,2,1,1
+Ponto Novo,,1800,520,2320,70,3,1,1
+Jardins,Avenida Deputado Pedro Valadares,3400,0,3400,70,2,2,2
+Inácio Barbosa,Avenida Presidente João Goulart,1800,383,2183,60,3,1,1
+Coroa do Meio,Rua Pedro Mandarino,1200,380,1580,75,3,2,1
+Aruana,Rua A,1700,338,2038,68,3,2,2
 Farolândia,,2300,490,2790,80,3,2,2
+Aeroporto,Avenida Senador Júlio Leite,1850,535,2385,79,3,1,0
+Aruana,Rua Josepha Andrade Irmã Fontes,1900,0,1900,53,2,1,1
+Ponto Novo,Rua Rafael de Aguiar,1890,0,1890,65,3,1,1
+Luzia,Rua Palmira Ramos Teles,2000,400,2400,55,2,1,1
+Jabotiana,Estrada da Cabrita,1000,316,1316,66,3,2,1
+Coroa do Meio,Rua Euclides Góis,2700,739,3439,73,2,1,2
+Jabotiana,Rua Tenente Wilson Pereira dos Santos,2800,559,3359,72,3,2,1
+Suíça,Rua Clara Almeida,1200,420,1620,52,2,1,1
+Coroa do Meio,Rua Josias Vieira Dantas,1800,596,2396,66,3,2,1
+Marivan,Avenida Jornalista Juarez Conrado Dantas,1300,225,1525,50,2,1,1
+Jabotiana,,1150,300,1450,68,3,2,1
+Jardins,Avenida Doutor José Machado de Souza,6500,687,7187,80,3,1,2
+Treze de Julho,Avenida Anízio Azevedo,1800,900,2700,104,3,2,1
+Grageru,Rua Terêncio Sampaio,2200,960,3160,104,3,2,2
+Dezoito do Forte,Travessa Antônio Teodoro,800,0,800,50,2,1,0
+Aeroporto,Avenida Senador Júlio Leite,3500,238,3738,85,3,1,2
+Coroa do Meio,Rua Euclides Góis,2700,739,3439,71,2,1,2
+Jabotiana,Estrada da Cabrita,1000,390,1390,52,2,1,1
+Coroa do Meio,,2000,399,2399,57,2,2,1
+Inácio Barbosa,Avenida Etelvino Alves de Lima,1300,330,1630,60,3,1,1
+Ponto Novo,Avenida Augusto Franco,1200,460,1660,62,3,1,1
+Jabotiana,Rua João Gêniton da Costa,1600,0,1600,77,3,1,1
+Suíça,Rua Clara Almeida,1200,420,1620,52,2,1,1
+Inácio Barbosa,Rua Quirino,1300,345,1645,52,2,1,1
+Luzia,Avenida Dulce Diniz,3200,550,3750,80,3,2,2
+Inácio Barbosa,Avenida Etelvino Alves de Lima,1500,0,1500,52,2,1,1
+Getúlio Vargas,Avenida Mamede Paes Mendonça,900,0,900,60,2,1,0
+Aruana,Rua A,1300,338,1638,55,2,2,1
+Aruana,Rua Josepha Andrade Irmã Fontes,2000,0,2000,51,2,2,1
+Farolândia,Alameda das Bromélias,2900,962,3862,112,3,3,2
+Grageru,Avenida Franklin de Campos Sobral,1500,892,2392,65,3,2,1
+Ponto Novo,Avenida Augusto Franco,1800,385,2185,72,3,2,1
+Aruana,Rua Praia de Atalaia Nova,1400,380,1780,62,2,2,1
+Aruana,Rua Eliza Correia Oliveira,1300,431,1731,75,3,2,2
+Salgado Filho,Rua Joventina Alves,2700,850,3550,110,3,1,1
+Aruana,Rua Jorge Mangueira Lobão,1300,364,1664,66,3,2,1
+Aruana,Rua Josepha Andrade Irmã Fontes,1500,268,1768,50,2,1,1
+Aruana,Rua Eliza Correia Oliveira,2000,0,2000,60,2,1,1
+Farolândia,Rua Antônio Teixeira Gonçalves,2800,0,2800,89,2,1,1
+Suíça,Rua Leonel Curvelo,1100,100,1200,40,2,1,1
+Farolândia,Rua Professora Maria Auxiliadora Santos dos Anjos,1950,380,2330,78,3,1,1
+Coroa do Meio,Avenida Conselheiro João Moreira Filho,1650,430,2080,78,3,1,1
+Areia Branca,Rua Mangabeiras,1200,0,1200,60,2,2,1
+Marivan,Avenida Jornalista Juarez Conrado Dantas,2000,0,2000,42,2,1,1
+Coroa do Meio,Rua Antônio Andrade,3000,399,3399,57,2,2,1
+Getúlio Vargas,,1300,200,1500,102,3,1,1
+Aeroporto,Avenida Luiz Braille,1300,339,1639,55,2,1,1
+Jardins,Rua José Seabra Batista,3600,710,4310,97,3,2,2
+Pereira Lobo,Rua Doutor Silvério Fontes,1400,500,1900,101,3,3,1
+Atalaia,Avenida Mário Jorge Menezes Vieira,2690,400,3090,70,3,3,1
+São Conrado,Rua B,1500,0,1500,52,2,1,1
+Luzia,Avenida Dulce Diniz,4500,0,4500,80,3,2,2
+Aruana,Rua Francisco Antônio Santos,1200,668,1868,60,3,1,1
+Jabotiana,Rua João Gêniton da Costa,1800,420,2220,60,3,2,1
+Cirurgia,Rua Dom Bosco,1100,610,1710,75,2,1,0
+Jabotiana,Rua Jasiel de Brito Côrtes,1500,0,1500,65,2,1,1
+Pereira Lobo,Rua Clara Almeida,1200,101,1301,52,2,1,1
+Ponto Novo,Avenida Doutor Francisco Moreira,1700,840,2540,78,3,2,1
+Jardins,Avenida Deputado Sílvio Teixeira,3800,1275,5075,140,3,1,2
+Ponto Novo,Avenida Gonçalo Rolemberg Leite,1800,865,2665,80,3,2,1
+Farolândia,Rua Antônio Teixeira Gonçalves,1900,0,1900,47,2,1,1
+Aruana,Rua Josepha Andrade Irmã Fontes,1300,380,1680,77,2,2,1
+Suíça,Avenida Gonçalo Rolemberg Leite,1300,1198,2498,125,3,2,1
+Atalaia,Rua Napoleão Dórea,4000,1105,5105,139,3,1,2
+Aruana,Rua Josepha Andrade Irmã Fontes,1400,340,1740,65,2,2,1
+Jardins,Avenida Ministro Geraldo Barreto Sobral,4000,1375,5375,147,4,4,2
+Jardins,Avenida Deputado Sílvio Teixeira,3500,1200,4700,110,3,3,2
+Atalaia,,3000,800,3800,90,3,1,2
+Mosqueiro,Avenida Inácio Barbosa,2300,880,3180,125,3,2,2
+Aeroporto,Rua dos Halibutes,1550,466,2016,60,3,2,1
+Grageru,Avenida Adélia Franco,1200,580,1780,100,3,2,2
+Farolândia,Avenida Capitão Joaquim Martins Fontes,2000,468,2468,78,3,1,1
+Luzia,Rua José Deodoro Santos,2500,500,3000,80,3,1,1
+Aruana,Rua A,1900,0,1900,58,3,1,2
+Luzia,Rua Matilde Silva Lima,2200,398,2598,74,3,1,1
+Atalaia,Rua Deputado Clóvis Rollemberg,4000,620,4620,79,3,2,1
+Aeroporto,Rua do Sol,2200,0,2200,80,2,1,0
+Jardins,Avenida Oviêdo Teixeira,6500,900,7400,90,2,2,2
+Ponto Novo,Avenida Augusto Franco,1400,410,1810,65,2,2,1
+Farolândia,Rua Professora Maria Auxiliadora Santos dos Anjos,2300,300,2600,58,2,2,1
+Coroa do Meio,Rua Coronel José Figueiredo de Albuquerque,1800,655,2455,76,3,2,1
+Atalaia,Rua Francisco Rabelo Leite Neto,5000,880,5880,76,2,2,2
+Aruana,Rua Eliza Correia Oliveira,2000,0,2000,62,3,2,1
+Luzia,Rua Erundina Nobre Santos,900,390,1290,103,3,2,1
+Aruana,,1800,432,2232,65,3,2,1
+Coroa do Meio,Rua Euclides Góis,2500,739,3239,73,2,1,1
+Salgado Filho,Praça Eronildes de Carvalho,1500,780,2280,60,2,1,1
+Aruana,Rua Maria Vasconcelos de Andrade,1200,1218,2418,60,3,1,0
+Farolândia,Avenida Doutor Adel Nunes,1650,359,2009,55,2,2,1
+Coroa do Meio,Rua Antônio Andrade,2500,400,2900,65,2,1,1
+Marivan,Rua Tom Jobim,1600,0,1600,45,2,1,0
+Aeroporto,Avenida Senador Júlio Leite,1900,375,2275,70,3,2,1
+Farolândia,Rua Tenente Antônio Fontes Pitanga,3300,0,3300,85,3,2,1
+Inácio Barbosa,Avenida Etelvino Alves de Lima,2200,0,2200,58,2,1,1
+Atalaia,,3800,753,4553,82,1,1,2
+Farolândia,Rua Paulo Afonso,4000,1179,5179,110,3,3,2
+Salgado Filho,Praça Eronildes de Carvalho,1500,101,1601,60,2,1,1
+Aruana,Rua Eliza Correia Oliveira,2000,0,2000,60,2,1,0
+Treze de Julho,Rua Álvaro de Brito,1800,1090,2890,110,3,3,1
+Capucho,Avenida Doutor Carlos Rodrigues da Cruz,1000,0,1000,41,2,1,1
+Dom Luciano,Rua T,2000,0,2000,51,2,2,1
+Jardins,Avenida Doutor José Machado de Souza,3800,406,4206,68,2,2,1
+Marivan,Rua Tom Jobim,900,333,1233,47,2,1,1
+Aruana,Rua Eliza Correia Oliveira,1500,0,1500,57,2,1,1
+Jabotiana,Rua Antônio Fernando dos Reis Ribeiro,1650,413,2063,67,3,2,1
+Aruana,Rua Um,1600,0,1600,52,2,2,1
+Santa Maria,Rua J,1600,0,1600,45,2,1,1
+Farolândia,Rua Antônio Barbosa de Araújo,1200,575,1775,73,2,2,0
+Luzia,Rua Engenheiro Antônio Gonçalves Soares,3000,710,3710,75,3,2,1
+Salgado Filho,Rua Urquiza Leal,1800,800,2600,114,3,1,1
+Grageru,Rua Urquiza Leal,1500,950,2450,105,3,1,1
+Aruana,Rua Z,2000,340,2340,52,2,1,0
+Grageru,Avenida Deputado Pedro Valadares,3500,1005,4505,160,4,1,2
+Aeroporto,Rua do Sol,2000,0,2000,45,2,1,0
+Luzia,Avenida Adélia Franco,6500,685,7185,110,3,2,2
+São José,Rua Campo do Brito,1750,800,2550,112,3,1,0
+Farolândia,Avenida Doutor Adel Nunes,1500,380,1880,60,2,1,1
+Coroa do Meio,Rua Euclides Góis,3000,739,3739,73,2,1,2
+Capucho,Avenida Doutor Carlos Rodrigues da Cruz,700,300,1000,40,2,1,1
+São José,Rua Duque de Caxias,1500,1530,3030,135,3,2,1
+Coroa do Meio,Rua Professor José Freitas de Andrade,1400,279,1679,90,3,2,1
+Suíça,Avenida Gonçalo Rolemberg Leite,1500,1150,2650,105,3,3,1
+Farolândia,Rua Antônio Teixeira Gonçalves,2800,0,2800,47,2,1,1
 Aeroporto,Rua do Sol,1700,0,1700,45,1,1,0
 Aruana,Rua Eliza Correia Oliveira,2200,68,2268,58,2,1,0
-Getúlio Vargas,Avenida Pedro Calazans,790,1111,1901,10,1,1,0
-Aeroporto,Avenida Senador Júlio Leite,3500,238,3738,85,3,1,2
-Jabotiana,Rua Antônio Fernando dos Reis Ribeiro,1300,400,1700,6470,3,1,1
-Mosqueiro,Avenida Inácio Barbosa,5000,900,5900,125,3,23,2
-Pereira Lobo,Rua Doutor Silvério Fontes,1400,500,1900,101,3,3,1
-Aruana,,2200,432,2632,68,3,1,1
-Coroa do Meio,Rua Antônio Andrade,4000,0,4000,57,2,1,1
-Inácio Barbosa,Avenida Etelvino Alves de Lima,1600,390,1990,48,2,1,1
-Grageru,Avenida Deputado Sílvio Teixeira,2500,710,3210,79,3,2,1
-Mosqueiro,Avenida Inácio Barbosa,2300,880,3180,125,3,2,2
-Coroa do Meio,Avenida Conselheiro João Moreira Filho,2700,500,3200,70,3,3,1
-Cidade Nova,Rua Heribaldo da Silva Melo,750,0,750,50,2,1,0
-Aruana,Rua Josepha Andrade Irmã Fontes,2000,0,2000,51,2,2,1
-Marivan,Rua Tom Jobim,1500,358,1858,55,2,1,1
-Luzia,Rua Antônio Vieira de Menezes,750,60,810,50,1,1,0
-Aruana,Rua Eliza Correia Oliveira,2000,0,2000,60,2,1,1
-Farolândia,Alameda das Bromélias,2900,962,3862,112,3,3,2
-Inácio Barbosa,Avenida Presidente Tancredo Neves,12500,0,12500,219,4,4,3
-Coroa do Meio,Rua Euclides Góis,2700,739,3439,73,2,1,2
-Aruana,Rua A,1300,338,1638,55,2,2,1
-Salgado Filho,Praça Eronildes de Carvalho,2000,0,2000,10,2,1,1
-Coroa do Meio,Rua Professor José Freitas de Andrade,1400,279,1679,90,3,2,1
-Mosqueiro,Avenida Inácio Barbosa,7000,151,7151,347,3,1,4
-Atalaia,Rua Deputado Clóvis Rollemberg,4000,620,4620,79,3,2,1
-Farolândia,Rua Professora Maria Auxiliadora Santos dos Anjos,1950,380,2330,78,3,1,1
-Dom Luciano,Rua T,2000,0,2000,51,2,2,1
-Pereira Lobo,Rua Edgar Barroso,2200,0,2200,10,2,1,0
-Luzia,Estrada da Luzia,1900,643,2543,70,3,1,1
-Treze de Julho,Avenida Anízio Azevedo,1800,900,2700,104,3,2,1
-Inácio Barbosa,Avenida Etelvino Alves de Lima,2200,0,2200,58,2,1,1
-Farolândia,Avenida Doutor Adel Nunes,1500,380,1880,60,2,1,1
-Jardins,Avenida Deputado Sílvio Teixeira,3500,1200,4700,110,3,3,2
-Grageru,Rua Urquiza Leal,1500,950,2450,105,3,1,1
-Atalaia,Rua Francisco Rabelo Leite Neto,5000,880,5880,76,2,2,2
-Aeroporto,Rua do Sol,1900,0,1900,45,1,1,0
-Farolândia,Rua Professora Maria Auxiliadora Santos dos Anjos,2000,1312,3312,58,2,1,0
-Atalaia,Rua Francisco Rabelo Leite Neto,7650,0,7650,76,2,2,1
-Aruana,Rua Z,2000,340,2340,52,2,1,0
-Farolândia,Avenida Murilo Dantas,1200,326,1526,40,1,1,0
-Jardins,Rua José Seabra Batista,3600,710,4310,97,3,2,2
-Treze de Julho,Rua Álvaro de Brito,1800,1090,2890,110,3,3,1
-Jabotiana,Rua Professor Damião Teles de Menezes,1600,400,2000,72,2,1,1
-Farolândia,Rua Tenente Antônio Fontes Pitanga,3300,0,3300,85,3,2,1
-Jardins,,3100,910,4010,148,3,2,2
-Farolândia,Avenida João Vítor de Matos,3300,1450,4750,139,3,1,2
-Aeroporto,Avenida Senador Júlio Leite,1850,535,2385,79,3,1,0
-Atalaia,,3800,753,4553,82,1,1,2
-Aruana,Rua Josepha Andrade Irmã Fontes,1300,380,1680,77,2,2,1
-Farolândia,,1675,55,1730,73,2,2,1
-Farolândia,Rua Antônio Teixeira Gonçalves,2800,0,2800,89,2,1,1
-Atalaia,Rua Napoleão Dórea,2000,0,2000,10,2,1,1
-Aruana,Rua C,1800,500,2300,10,2,1,0
-Atalaia,Rua François Hoald,200,0,200,51,3,1,0
-Aruana,Avenida Silvério Leite Fontes,2300,375,2675,74,3,1,1
-São José dos Náufragos,Avenida Inácio Barbosa,3000,1994,4994,125,1,1,2
-Coroa do Meio,Rua Antônio Andrade,2500,400,2900,65,2,1,1
-Jardins,Avenida Deputado Sílvio Teixeira,6500,0,6500,171,3,1,3
-Suíça,Avenida Gonçalo Rolemberg Leite,1500,1150,2650,105,3,3,1
-Coroa do Meio,Rua Euclides Góis,3000,739,3739,73,2,1,2
-Atalaia,Rua Deputado Clóvis Rollemberg,3300,600,3900,121,2,1,1
-Inácio Barbosa,Rua Olavo Bilac,2200,2835,5035,60,3,1,1
-Coroa do Meio,,2350,720,3070,80,3,1,1
-Aruana,,1600,380,1980,66,3,1,1
-Capucho,Avenida Doutor Carlos Rodrigues da Cruz,1000,0,1000,41,2,1,1
-Jabotiana,Rua Fátima Maria Chagas,2200,517,2717,72,3,1,2
-Aruana,,1800,432,2232,65,3,2,1
-Inácio Barbosa,Avenida Adélia Franco,1300,415,1715,67,2,1,1
-Aruana,Rua Josepha Andrade Irmã Fontes,1500,268,1768,50,2,1,1
-Atalaia,Rua Napoleão Dórea,4000,1105,5105,139,3,1,2
-Jardins,Avenida Francisco Porto,3500,1265,4765,114,3,2,2
-Farolândia,Rua Antônio Teixeira Gonçalves,2800,0,2800,89,2,1,1
-Atalaia,Rua François Hoald,150,0,150,50,2,1,1
-Farolândia,Avenida Empresário José Carlos Silva,3000,0,3000,65,2,1,1
-Luzia,Rua José Deodoro Santos,3000,0,3000,80,3,2,1
-São José,Avenida Augusto Maynard,2500,1433,3933,130,3,2,1
-Farolândia,,2000,565,2565,45,2,1,1
-Aruana,Rua Eliza Correia Oliveira,1300,431,1731,75,3,2,2
-Suíça,Rua Clara Almeida,1300,0,1300,10,2,1,1
-Coroa do Meio,Rua Euclides Góis,2700,739,3439,71,2,1,2
-Luzia,,3400,455,3855,60,2,1,1
-Atalaia,Rua Jordão de Oliveira,5500,650,6150,108,3,2,2
-Salgado Filho,Rua Joventina Alves,2700,850,3550,110,3,1,1
+Inácio Barbosa,Rua Quirino,1000,425,1425,50,2,1,1
+Grageru,,1800,680,2480,72,3,1,1
+Inácio Barbosa,Avenida Presidente Tancredo Neves,4000,640,4640,47,1,1,1
+Farolândia,Rua Tenente Waldir dos Santos,1000,415,1415,49,2,1,0
 Suíça,Rua Leonel Curvelo,1200,100,1300,45,2,1,0
-Inácio Barbosa,Avenida Presidente João Goulart,900,250,1150,46,2,1,1
-Jardins,Avenida Doutor José Machado de Souza,3200,1498,4698,72,2,1,1
-Aruana,Rua Eliza Correia Oliveira,2000,0,2000,62,3,2,1
-Aruana,Rua Josepha Andrade Irmã Fontes,1500,348,1848,52,2,1,1
-São José,Rua Campo do Brito,1750,800,2550,112,3,1,0
-Aruana,Rua Eliza Correia Oliveira,2200,68,2268,58,2,1,1
-São José,Travessa Juca Barreto,4500,1300,5800,212,3,1,2
-Suíça,Avenida Gonçalo Rolemberg Leite,1500,501,2001,98,3,2,1
-Aruana,Rua Eliza Correia Oliveira,2000,0,2000,60,2,1,0
-Jabotiana,Praça Antônio Teixeira,1500,575,2075,53,3,1,1
-Treze de Julho,Rua Doutor Osório de Araújo Ramos,2500,1150,3650,126,3,1,1
-Luzia,Rua Matilde Silva Lima,2200,398,2598,74,3,1,1
-Jardins,Avenida Deputado Sílvio Teixeira,2800,1100,3900,110,3,3,2
-Farolândia,Avenida Murilo Dantas,1100,326,1426,40,1,1,0
-Salgado Filho,Praça Eronildes de Carvalho,2000,0,2000,10,2,1,1
-Aruana,,2600,380,2980,66,3,1,1
-Luzia,Rua Engenheiro Antônio Gonçalves Soares,3000,710,3710,75,3,2,1
-Inácio Barbosa,Rua Olavo Bilac,2300,2835,5135,70,3,1,1
-Getúlio Vargas,,1300,200,1500,102,3,1,1
-Jardins,Avenida Governador Paulo Barreto de Menezes,5000,2100,7100,240,4,2,3
-Aruana,Rua Josepha Andrade Irmã Fontes,1500,380,1880,10,2,1,1
-Centro,Rua Pacatuba,2100,1500,3600,150,4,2,1
-Aeroporto,Avenida Senador Júlio Leite,1900,375,2275,70,3,2,1
-Dezoito do Forte,,1000,0,1000,50,2,1,1
-Centro,Rua Itabaiana,700,0,700,40,1,1,0
-Ponto Novo,Rua Francisco de Assis Delmondes Pereira Freitas,3100,330,3430,84,3,2,0
-Luzia,Avenida Dulce Diniz,3200,550,3750,80,3,2,2
-Jardins,Avenida Iolanda Pinto de Jesus,6000,800,6800,60,1,1,1
-Atalaia,Rua Francisco Rabelo Leite Neto,5900,880,6780,76,2,1,2
-Salgado Filho,Avenida Pedro Paes de Azevedo,3500,10,3510,124,3,2,1
-Farolândia,Avenida Paulo Silva,3000,583,3583,97,4,3,2
-Farolândia,Avenida Maria Pastora,1400,384,1784,62,3,1,1
-Jabotiana,Rua Jasiel de Brito Côrtes,1500,0,1500,65,2,1,1
-São José,Travessa Juca Barreto,4500,1300,5800,212,3,3,1
-Porto D'Antas,,800,0,800,43,2,1,1
-Suíça,Avenida Gonçalo Rolemberg Leite,1300,1150,2450,125,3,2,1
-Atalaia,Rua Francisco Rabelo Leite Neto,3000,725,3725,98,2,1,2
-Farolândia,,1800,79,1879,73,3,1,1
-Grageru,Avenida Deputado Pedro Valadares,3500,1005,4505,160,4,1,2
-São José,Rua Vila Cristina,2300,1700,4000,210,4,3,2
-Salgado Filho,Rua Urquiza Leal,1800,800,2600,114,3,1,1
-Atalaia,,3600,725,4325,72,2,1,2
-Coroa do Meio,Rua Euclides Góis,3000,739,3739,70,2,1,1
-Grageru,Avenida Deputado Pedro Valadares,3000,1105,4105,180,4,4,1
-Aruana,,1200,352,1552,52,2,1,1
+Jardins,Avenida Deputado Sílvio Teixeira,6500,0,6500,171,3,1,3
 Coroa do Meio,Avenida Conselheiro João Moreira Filho,200,0,200,70,3,2,1
-Atalaia,,3000,800,3800,90,3,1,2
-Ponto Novo,Avenida Doutor Francisco Moreira,1050,378,1428,730,2,1,1
-Farolândia,,900,300,1200,50,2,1,1
-Luzia,Avenida Adélia Franco,1500,575,2075,10,3,2,0
-Atalaia,Rua João Carvalho de Aragão,3000,800,3800,72,3,1,1
-Farolândia,Rua Lenio de Moura Morais,850,250,1100,65,3,1,1
-Farolândia,Avenida Governador Paulo Barreto de Menezes,6000,2020,8020,176,3,1,2
+Suíça,Avenida Hermes Fontes,2500,0,2500,131,3,2,2
+Marivan,Avenida Alexandre Alcino,1500,390,1890,70,3,2,0
+Atalaia,Rua Francisco Rabelo Leite Neto,3000,725,3725,98,2,1,2
+Inácio Barbosa,Avenida Adélia Franco,1300,415,1715,67,2,1,1
+Mosqueiro,Avenida Inácio Barbosa,7000,151,7151,347,3,1,4
+Aeroporto,Rua do Sol,1900,0,1900,45,1,1,0
+Jabotiana,Rua Fátima Maria Chagas,2200,517,2717,72,3,1,2
+Jardins,Avenida Francisco Porto,3500,1265,4765,114,3,2,2
 Jardins,Rua Moacir Wanderley,6500,4300,10800,160,3,1,2
+Farolândia,Rua Antônio Teixeira Gonçalves,2800,0,2800,89,2,1,1
+Grageru,Avenida Deputado Sílvio Teixeira,2500,710,3210,79,3,2,1
+São José,Travessa Juca Barreto,4500,1300,5800,212,3,3,1
+Farolândia,Avenida Maria Pastora,1400,384,1784,62,3,1,1
+Luzia,Rua Antônio Vieira de Menezes,750,60,810,50,1,1,0
+Atalaia,Rua Jordão de Oliveira,5500,650,6150,108,3,2,2
+Aruana,Rua Eliza Correia Oliveira,2200,68,2268,58,2,1,1
+Farolândia,Avenida Murilo Dantas,1200,326,1526,40,1,1,0
+Jabotiana,Rua Professor Damião Teles de Menezes,1600,400,2000,72,2,1,1
+São José,Avenida Augusto Maynard,2000,1419,3419,120,3,1,1
+Aruana,Rua Josepha Andrade Irmã Fontes,1500,348,1848,52,2,1,1
+Aruana,Avenida Silvério Leite Fontes,2300,375,2675,74,3,1,1
+Aruana,Rua Adalberto Fonseca,1800,365,2165,71,2,1,1
+Farolândia,Avenida Paulo Silva,3000,583,3583,97,4,3,2
+Marivan,Rua Tom Jobim,1500,358,1858,55,2,1,1
+Inácio Barbosa,Avenida Etelvino Alves de Lima,1600,390,1990,48,2,1,1
+Cirurgia,Avenida Desembargador Maynard,950,516,1466,118,2,1,1
+São José,Travessa Juca Barreto,4500,1300,5800,220,4,2,2
+Inácio Barbosa,Rua Olavo Bilac,2200,2835,5035,60,3,1,1
+Coroa do Meio,Avenida Conselheiro João Moreira Filho,2700,500,3200,70,3,3,1
+Farolândia,Rua Professora Maria Auxiliadora Santos dos Anjos,2000,1312,3312,58,2,1,0
+Atalaia,Rua Francisco Rabelo Leite Neto,5900,880,6780,76,2,1,2
+Coroa do Meio,Rua Euclides Góis,3000,739,3739,70,2,1,1
+Jardins,Avenida Oviêdo Teixeira,5500,1584,7084,138,4,2,3
+Cidade Nova,Rua Heribaldo da Silva Melo,750,0,750,50,2,1,0
+Aruana,Rua Z,1300,449,1749,55,2,1,1
+Salgado Filho,Avenida Pedro Paes de Azevedo,3500,10,3510,124,3,2,1
+Atalaia,Rua Deputado Clóvis Rollemberg,3300,600,3900,121,2,1,1
+Inácio Barbosa,Rua Olavo Bilac,2300,2835,5135,70,3,1,1
+Ponto Novo,Rua Francisco de Assis Delmondes Pereira Freitas,3100,330,3430,84,3,2,0
+São José dos Náufragos,Avenida Inácio Barbosa,3000,1994,4994,125,1,1,2
+Ponto Novo,Avenida Doutor Francisco Moreira,1050,378,1428,730,2,1,1
+Atalaia,Rua João Carvalho de Aragão,3000,800,3800,72,3,1,1
+Farolândia,Rua Tenente Antônio Fontes Pitanga,2100,728,2828,80,3,1,1
+Luzia,Estrada da Luzia,1900,643,2543,70,3,1,1
+Coroa do Meio,Rua Antônio Andrade,4000,0,4000,57,2,1,1
+Inácio Barbosa,Avenida Presidente João Goulart,900,250,1150,46,2,1,1
+Grageru,Rua Tasso Sobral,1300,1056,2356,220,3,2,1
+Grageru,Avenida Deputado Pedro Valadares,3000,1105,4105,180,4,4,1
+Jardins,Avenida Doutor José Machado de Souza,3200,1498,4698,72,2,1,1
+Jardins,Avenida Deputado Sílvio Teixeira,2800,1100,3900,110,3,3,2
+Atalaia,,3200,620,3820,66,2,1,2
+Farolândia,Avenida João Vítor de Matos,3300,1450,4750,139,3,1,2
+Atalaia,Rua Francisco Rabelo Leite Neto,7650,0,7650,76,2,2,1
+Suíça,Rua Clara Almeida,1300,0,1300,10,2,1,1
+Pereira Lobo,Rua Edgar Barroso,2200,0,2200,10,2,1,0
+Farolândia,,2000,565,2565,45,2,1,1
+Atalaia,Rua François Hoald,150,0,150,50,2,1,1
+Centro,Rua Itabaiana,700,0,700,40,1,1,0
+São José,Travessa Juca Barreto,4500,1300,5800,212,3,1,2
+São José,Rua Vila Cristina,2300,1700,4000,210,4,3,2
+Salgado Filho,Praça Eronildes de Carvalho,2000,0,2000,10,2,1,1
+Atalaia,Rua Napoleão Dórea,1800,1200,3000,67,3,2,6
 Aruana,,1400,2566,3966,55,3,2,1
-Treze de Julho,Rua Desembargador José Sotero,5500,1090,6590,237,5,5,1
-São José,Rua Riachuelo,2200,860,3060,189,3,1,1
-Jardins,Avenida Deputado Pedro Valadares,3000,1105,4105,159,4,4,2
-Luzia,Rua Matilde Silva Lima,2500,443,2943,10,3,1,1
-São José,,2300,828,3128,144,3,12,1
-Farolândia,Rua Doutor Lúcio Prado,2000,732,2732,10,3,1,0
-São José,,2500,774,3274,106,3,1,1
+Farolândia,,900,300,1200,50,2,1,1
+São José,Avenida Augusto Maynard,2500,1433,3933,130,3,2,1
 São José,Travessa Juca Barreto,4500,1300,5800,211,3,2,0
+São José,Rua Riachuelo,2200,860,3060,189,3,1,1
+Jardins,Avenida Iolanda Pinto de Jesus,6000,800,6800,60,1,1,1
+Farolândia,Avenida Empresário José Carlos Silva,3000,0,3000,65,2,1,1
+Atalaia,Rua François Hoald,200,0,200,51,3,1,0
+Luzia,Rua Matilde Silva Lima,2500,443,2943,10,3,1,1
+Treze de Julho,Rua Desembargador José Sotero,5500,1090,6590,237,5,5,1
+Porto D'Antas,,800,0,800,43,2,1,1
+Grageru,Avenida Pedro Paes Azevedo,3500,1400,4900,104,3,3,1
+Salgado Filho,Praça Eronildes de Carvalho,2000,0,2000,10,2,1,1
+Inácio Barbosa,Avenida Presidente Tancredo Neves,12500,0,12500,219,4,4,3
+Farolândia,Rua Lenio de Moura Morais,850,250,1100,65,3,1,1
+Jabotiana,Praça Antônio Teixeira,1500,575,2075,53,3,1,1
+Aruana,Rua Josepha Andrade Irmã Fontes,1500,380,1880,10,2,1,1
+Treze de Julho,Rua Deputado Carvalho Deda,1500,935,2435,98,3,1,1
+Jardins,Avenida Governador Paulo Barreto de Menezes,5000,2100,7100,240,4,2,3
+Inácio Barbosa,,1300,390,1690,48,2,1,1
