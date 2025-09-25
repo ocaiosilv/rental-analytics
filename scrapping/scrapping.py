@@ -18,7 +18,7 @@ def pseudoPriceAdjustment(rent, bedrooms, bathrooms, parking_spaces, property_si
     variances between them in the same neighboorhood to see how the price changed.
 
     The implemented solution therefore uses a data-driven average 'price per square meter' 
-    from the "no multiple rentals" analysis, complemented by heuristic-based multipliers 
+    from the "no multiple rentals" analysis, complemented by hand-made multipliers 
     for other features.
 
     note: if you run this in a bigger city vivareal page, and then get a more dense dataframe
