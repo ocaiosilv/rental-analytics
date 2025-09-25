@@ -22,7 +22,7 @@ def pseudoPriceAdjustment(rent, bedrooms, bathrooms, parking_spaces, property_si
     for other features.
 
     note: if you run this in a bigger city vivareal page, and then get a more dense dataframe
-    (without the pseudoRentals active) you can have a gratter result about the real changes
+    (without the pseudoRentals active) you can have a greater result about the real changes
     for each bedroom,bathroom, parking spaces and even the priceperSQM, so then the pseudoRentals
     can be more precise and accurrate.
     """
